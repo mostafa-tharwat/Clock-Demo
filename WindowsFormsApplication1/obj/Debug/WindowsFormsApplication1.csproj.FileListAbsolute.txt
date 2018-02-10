@@ -1,0 +1,21 @@
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mosta\Desktop\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mosta\Desktop\C#\Time Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mosta\Desktop\C#\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mosta\Desktop\C#\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Time Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Time Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Time Demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Time Demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
